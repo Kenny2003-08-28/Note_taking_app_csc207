@@ -11,7 +11,9 @@ Modern individuals prefer using electronic devices over traditional note-taking 
 Our goal is to develop an intuitive note-taking application that provides functionalities such as creating, editing, organizing, and searching notes. The application will allow users to categorize notes, add tags, and synchronize data across different devices, ensuring their notes are always accessible and up to date.
 
 ## API Integration
-To amplify our app's functionalities, we plan to integrate with a [SPECIFIC API NAME] to enhance [SPECIFIC FEATURE OR FUNCTIONALITY]. This API facilitates features like [DETAILED FUNCTIONALITIES], enabling users to derive more value and organize their notes effectively. A detailed description and documentation can be found at [LINK TO API DOCUMENTATION].
+To amplify our app's functionalities, We decided to use some APIs to enhance our app. We currently have the following ideas:
+- Google cloud/Drive api (for upload notes online)
+- Spelling checker like GrammarBot
 
 ### API Usage Example
 We utilized Postman for testing the [API NAME]. Below is a screenshot that demonstrates how we used the API to improve user experiences:  
