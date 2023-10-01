@@ -1,6 +1,12 @@
 # Note-Taking App - CSC207 Project
 This repository is dedicated to our course project for CSC207 at the University of Toronto (UofT). We're delighted to work on a project that is not only educational but also has the potential to impact users in a beneficial manner.
 
+## Team Members
+Shixun Huang  
+Shipei Zhang  
+Zhenyi Zhang  
+Zilong Zhao  
+
 ## Introduction
 In our dynamic and fast-paced world, note-taking has evolved, shifting towards digital platforms. Considering this, our team has chosen to develop a robust and user-friendly note-taking application aimed at meeting the versatile needs of individuals in various contexts, such as educational and professional environments.
 
@@ -60,3 +66,9 @@ Response successful: {"software":{"name":"GrammarBot","version":"4.3.1","apiVers
 ```
 
 We may be focusing on some parts of it as it is able for users to check the spelling.
+
+
+## Technical Problem
+As of now, our team has not encountered any major technical problems blocking our progress. However, we anticipate challenges related to cross-platform development and real-time synchronization of notes across devices. We will address these challenges as we progress in the development process and keep this README updated with any new developments or issues.  
+
+Update: We met some difficulties in understanding API's documentations: Sometimes, API's documentation might not be clear about how to use specific endpoints or functions, leading to confusion and sometimes, API's documentation might not cover all the edge cases or detail all possible errors and how to handle them. Further, we attempt to use API to google drive to realize our aim of storing notes; however, we are still confused by implementations and operations on google drive.
