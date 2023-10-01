@@ -16,7 +16,7 @@ To amplify our app's functionalities, We decided to use some APIs to enhance our
 - Spelling checker like GrammarBot
 
 ### API Usage Example
-We utilized Postman for testing the GrammarBot. Below is a screenshot that demonstrates how we used the API to improve user experiences:  
+We utilized Postman for testing the GrammarBot. Below is a screenshot that demonstrates how we used the API in Postman:  
 
 ![3171696199162_ pic](https://github.com/Alessange/Note_taking_app_csc207/assets/56106326/ba60c32b-e0ac-46c0-a1cc-a163b9c3cb08)
 
